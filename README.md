@@ -11,4 +11,4 @@ I am Franco Sirena, a Software Engineer who happens to love working with Fronten
 - 👯 I’m looking to collaborate with the JS community in general and making the places that I work more diverse and inclusive.
 - 💬 Ask me about React, Javascript, Testing Library, NodeJS, SCSS/CSS that sort of Web related stuff. And, **of course**, craftbeer 🍺 or just beard grooming 🧔🏻
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a Brazilian with an Italian passport who lived in Portugal and now lives in the Netherlands 🇧🇷 🇮🇹 🇵🇹 🇳🇱
+- ⚡ Fun fact: I already lived in four countries and I have dual citizenship 🇧🇷 + 🇮🇹 : lived at: 🇧🇷 🇦🇴 🇵🇹 🇳🇱
