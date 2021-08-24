@@ -9,7 +9,7 @@ I am Franco Sirena, a Software Engineer who happens to love working with Fronten
 
 - 🔭 I’m currently working as a Staff Engineer, focused on Frontend, using React, Testing Library, Redux, React-Router, name it. But I often do some Node stuff, some Kubernets stuff, which I love by the way. 
 - 📍 Based in Rotterdam / Netherlands
-- 🌱 I’m currently learning Rust and Python, because I love to learn and Python seemed extremely easy to get my hands around and Rust is more like a personal challenge.
+- 🌱 I love to learn, at the moment trying to get better at Go, Python and Rust. 
 - 👯 I’m looking to collaborate with the JS community in general and making the places that I work more diverse and inclusive.
 - 💬 Ask me about React, Javascript, Testing Library, NodeJS, SCSS/CSS that sort of Web related stuff. And, **of course**, craftbeer 🍺 or just beard grooming 🧔🏻
 - 😄 Pronouns: He/Him
