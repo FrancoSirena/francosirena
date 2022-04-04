@@ -7,7 +7,7 @@ Check my blog at: <a href="https://francosirena.dev" target="_blank">francosiren
 
 I am Franco Sirena, a Software Engineer who happens to love working with Frontend... Nah, I am actually more like a JS and WEB enthusiast, from automation to everything 👨🏻‍💻
 
-- 🔭 I’m currently working as a Staff Engineer, focused on Frontend, using React, Testing Library, Redux, React-Router, name it. But I often do some Node stuff, some Kubernets stuff, which I love by the way. 
+- 🔭 I’m currently working as a Frontend Engineer, using React + Typescript, Testing Library, Redux, React-Router, name it. But I often do some Node stuff, some Kubernets stuff, which I love by the way. 
 - 📍 Based in Rotterdam / Netherlands
 - 🌱 I love to learn, at the moment trying to get better at Go, Python and Rust. 
 - 👯 I’m looking to collaborate with the JS community in general and making the places that I work more diverse and inclusive.
